@@ -4,6 +4,8 @@ This is a personal website project developed using HTML, CSS, and JavaScript. Th
 
 ## Live Demo 🌐
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bc0f7a5-a3bd-40fd-979b-86b6d3b77274/deploy-status)](https://app.netlify.com/sites/omnifood-orcasconsole/deploys)
+
 The website is live and can be accessed at: https://omnifood-orcasconsole.netlify.app/
 
 ## Features ✨
