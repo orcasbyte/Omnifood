@@ -4,7 +4,7 @@ This is a personal website project developed using HTML, CSS, and JavaScript. Th
 
 ## Live Demo 🌐
 
-The website is live and can be accessed at:
+The website is live and can be accessed at: https://omnifood-orcasconsole.netlify.app/
 
 ## Features ✨
 
@@ -36,6 +36,6 @@ cd omnifood
 
 #### 3. Open `index.html` in your browser.
 
-## Acknowledgements 🙌🏻
+## Acknowledgements 🙌🏼
 
 This project was developed while following a Udemy course "[Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?kw=html+css&src=sac&couponCode=THANKSLEARNER24)". Special thanks to the course instructor [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) for the guidance.
